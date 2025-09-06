@@ -29,14 +29,6 @@ I'm a Software Engineer specializing in building scalable data pipelines, full-s
 
 ---
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavghate94&layout=compact&theme=radical" />
-</p>
-
----
-
 ### 💼 Work Experience
 
 -   **Software Engineer III** @ University of California, Davis Plant Simulation Lab (July 2022 - June 2025)
